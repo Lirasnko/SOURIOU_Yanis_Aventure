@@ -9,7 +9,8 @@ if (visionZone > 0) {
 	if (visionCollision > 0) {
 	}
 	else {
-		if (x32 != floor(x/32) && y32 != floor(y/32) && xPlayer32 != floor(O_Player.x/32) && yPlayer32 != floor(O_Player.y/32)) {
+		if (x32 != floor(x/32) || y32 != floor(y/32) || xPlayer32 != floor(O_Player.x/32) || yPlayer32 != floor(O_Player.y/32)) {
+			move = false;
 			path = path_add();
 			mp_grid_path(O_Global.groundGrid, path, x, y, O_Player.x, O_Player.y, 1);
 			path_start(path, 1, 0, 0);
@@ -18,6 +19,12 @@ if (visionZone > 0) {
 }
 else {
 	path_end();
-	mp_grid_path(O_Global.groundGird, path, x, y, xstart, ystart, 1);
-	path_start(path, 1, 0, 0);
+	if ((x != xstart || y != ystart) && !move) {
+		path = path_add();
+		mp_grid_path(O_Global.groundGird, path, x, y, xstart, ystart, 1);
+		path_start(path, 1, 0, 0);
+	}
+	else {
+		move = true;
+	}
 }

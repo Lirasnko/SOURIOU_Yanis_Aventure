@@ -34,7 +34,7 @@
   "properties":[
     {"$GMObjectProperty":"v1","%Name":"haveBackpack","filters":[],"listItems":[],"multiselect":false,"name":"haveBackpack","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
     {"$GMObjectProperty":"v1","%Name":"haveSpear","filters":[],"listItems":[],"multiselect":false,"name":"haveSpear","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
-    {"$GMObjectProperty":"v1","%Name":"gamepad","filters":[],"listItems":[],"multiselect":false,"name":"gamepad","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"True","varType":3,},
+    {"$GMObjectProperty":"v1","%Name":"gamepad","filters":[],"listItems":[],"multiselect":false,"name":"gamepad","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
     {"$GMObjectProperty":"v1","%Name":"xSpeed","filters":[],"listItems":[],"multiselect":false,"name":"xSpeed","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":0,},
     {"$GMObjectProperty":"v1","%Name":"ySpeed","filters":[],"listItems":[],"multiselect":false,"name":"ySpeed","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":0,},
   ],
