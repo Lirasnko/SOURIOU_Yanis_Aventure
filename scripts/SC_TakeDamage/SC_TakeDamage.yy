@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SC_TakeDamage",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SC_TakeDamage",
+  "parent":{
+    "name":"PlayerManager",
+    "path":"folders/Scripts/PlayerManager.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
