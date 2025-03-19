@@ -61,5 +61,14 @@ if (xSpeed == 0 && ySpeed == 0) {
 	speed = 0;
 }
 
+if (haveBackpack && backpack == noone) {
+	backpack = instance_create_layer(x, y, "Backpack", O_Backpack);
+	backpack.image_index = image_index;
+}
+if (haveSpear && spear == noone) {
+	spear = instance_create_layer(x, y, "Spear", O_Spear);
+	spear.image_index = image_index;
+}
+
 // Inherit the parent event
 event_inherited();

@@ -7,6 +7,15 @@ if (visionZone > 0) {
 	var visionCollision = collision_line(x, y, O_Player.x, O_Player.y, O_ColliderGroundWall, true, false);
 	
 	if (visionCollision > 0) {
+		path_end();
+		if ((x != xstart || y != ystart) && !move) {
+			path = path_add();
+			mp_grid_path(O_Global.groundGird, path, x, y, xstart, ystart, 1);
+			path_start(path, 1, 0, 0);
+		}
+		else {
+			move = true;
+		}
 	}
 	else {
 		if (x32 != floor(x/32) || y32 != floor(y/32) || xPlayer32 != floor(O_Player.x/32) || yPlayer32 != floor(O_Player.y/32)) {
