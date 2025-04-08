@@ -1,3 +1,0 @@
-idleAnimation = [];
-moveAnimation = [];
-atkAnimation = [];
