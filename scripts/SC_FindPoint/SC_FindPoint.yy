@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SC_FindPoint",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SC_FindPoint",
+  "parent":{
+    "name":"MobAI",
+    "path":"folders/Scripts/MobAI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

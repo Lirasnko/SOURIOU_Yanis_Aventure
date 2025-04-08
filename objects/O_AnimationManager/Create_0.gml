@@ -1,0 +1,3 @@
+idleAnimation = [];
+moveAnimation = [];
+atkAnimation = [];

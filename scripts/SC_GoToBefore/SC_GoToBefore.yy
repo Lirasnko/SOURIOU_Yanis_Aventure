@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SC_GoToBefore",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SC_GoToBefore",
+  "parent":{
+    "name":"MobAI",
+    "path":"folders/Scripts/MobAI.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
