@@ -8,8 +8,7 @@
   "managed":true,
   "name":"O_Spear",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_AnimationManager","path":"objects/O_AnimationManager/O_AnimationManager.yy",},"propertyId":{"name":"checker","path":"objects/O_AnimationManager/O_AnimationManager.yy",},"resource":{"name":"O_Player","path":"objects/O_Player/O_Player.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"O_Player",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_AnimationManager","path":"objects/O_AnimationManager/O_AnimationManager.yy",},"propertyId":{"name":"idleAnimation","path":"objects/O_AnimationManager/O_AnimationManager.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"S_SpearBack_Idle",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_AnimationManager","path":"objects/O_AnimationManager/O_AnimationManager.yy",},"propertyId":{"name":"checker","path":"objects/O_AnimationManager/O_AnimationManager.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"O_Player",},
   ],
   "parent":{
     "name":"Player",
@@ -37,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_SpearFront_Idle",
-    "path":"sprites/S_SpearFront_Idle/S_SpearFront_Idle.yy",
+    "name":"S_Spear_Idle_Front",
+    "path":"sprites/S_Spear_Idle_Front/S_Spear_Idle_Front.yy",
   },
   "spriteMaskId":null,
   "visible":true,

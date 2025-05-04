@@ -1,0 +1,13 @@
+draw_set_font(Font36);
+draw_set_halign(fa_left);
+draw_set_valign(fa_bottom);
+draw_text_ext_transformed(255, 210, " /             Interagir", 64, 800, 1, 1, 0);
+draw_text_ext_transformed(1055, 210, " /             Haut", 64, 800, 1, 1, 0);
+draw_text_ext_transformed(255, 370, " /             Attaquer", 64, 800, 1, 1, 0);
+draw_text_ext_transformed(1055, 370, " /             Gauche", 64, 800, 1, 1, 0);
+draw_text_ext_transformed(255, 530, " /             Depouiller", 64, 800, 1, 1, 0);
+draw_text_ext_transformed(1055, 530, " /             Bas", 64, 800, 1, 1, 0);
+draw_text_ext_transformed(255, 690, " /             Controler", 64, 800, 1, 1, 0);
+draw_text_ext_transformed(1055, 690, " /             Droite", 64, 800, 1, 1, 0);
+draw_text_ext_transformed(255, 850, " /             Map", 64, 800, 1, 1, 0);
+draw_text_ext_transformed(1055, 850, " /             Menu", 64, 800, 1, 1, 0);

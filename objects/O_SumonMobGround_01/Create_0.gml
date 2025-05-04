@@ -1,0 +1,4 @@
+event_inherited();
+
+idleAnimation = [S_SumonMobGround01_Idle_Right, S_SumonMobGround01_Idle_Left, S_SumonMobGround01_Idle_Left, S_SumonMobGround01_Idle_Right];
+moveAnimation = [S_SumonMobGround01_Move_Right, S_SumonMobGround01_Move_Left, S_SumonMobGround01_Move_Left, S_SumonMobGround01_Move_Right];

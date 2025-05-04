@@ -1,0 +1,1 @@
+lastCheckPoint = [O_Player.xstart, O_Player.ystart];

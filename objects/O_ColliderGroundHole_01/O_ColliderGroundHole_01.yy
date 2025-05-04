@@ -10,8 +10,8 @@
     "path":"folders/Objects/Collider/Ground.yy",
   },
   "parentObjectId":{
-    "name":"O_ColliderGrounsHole",
-    "path":"objects/O_ColliderGrounsHole/O_ColliderGrounsHole.yy",
+    "name":"O_ColliderGroundHole",
+    "path":"objects/O_ColliderGroundHole/O_ColliderGroundHole.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,

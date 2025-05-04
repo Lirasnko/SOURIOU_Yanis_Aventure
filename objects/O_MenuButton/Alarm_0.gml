@@ -1,0 +1,1 @@
+O_ButtonManager.buttons += 1;

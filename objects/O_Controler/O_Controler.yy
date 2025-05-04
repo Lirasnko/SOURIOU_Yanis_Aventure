@@ -3,6 +3,7 @@
   "%Name":"O_Controler",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"O_Controler",
@@ -26,8 +27,8 @@
   "physicsShapePoints":[],
   "physicsStartAwake":true,
   "properties":[
-    {"$GMObjectProperty":"v1","%Name":"controledObject","filters":[],"listItems":[],"multiselect":false,"name":"controledObject","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"O_BasicControl","path":"objects/O_BasicControl/O_BasicControl.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"O_BasicControl","varType":5,},
-    {"$GMObjectProperty":"v1","%Name":"gamepad","filters":[],"listItems":[],"multiselect":false,"name":"gamepad","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"True","varType":3,},
+    {"$GMObjectProperty":"v1","%Name":"controledObject","filters":[],"listItems":[],"multiselect":false,"name":"controledObject","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resource":{"name":"O_Player","path":"objects/O_Player/O_Player.yy",},"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"O_Player","varType":5,},
+    {"$GMObjectProperty":"v1","%Name":"gamepad","filters":[],"listItems":[],"multiselect":false,"name":"gamepad","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"SC_Pause",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"SC_Pause",
+  "parent":{
+    "name":"Button",
+    "path":"folders/Scripts/Button.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

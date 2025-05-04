@@ -8,7 +8,7 @@
   "managed":true,
   "name":"O_Backpack",
   "overriddenProperties":[
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_AnimationManager","path":"objects/O_AnimationManager/O_AnimationManager.yy",},"propertyId":{"name":"checker","path":"objects/O_AnimationManager/O_AnimationManager.yy",},"resource":{"name":"O_Player","path":"objects/O_Player/O_Player.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"O_Player",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_AnimationManager","path":"objects/O_AnimationManager/O_AnimationManager.yy",},"propertyId":{"name":"checker","path":"objects/O_AnimationManager/O_AnimationManager.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"O_Player",},
   ],
   "parent":{
     "name":"Player",
@@ -36,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_BackpackFront_Idle",
-    "path":"sprites/S_BackpackFront_Idle/S_BackpackFront_Idle.yy",
+    "name":"S_Backpack_Idle_Front",
+    "path":"sprites/S_Backpack_Idle_Front/S_Backpack_Idle_Front.yy",
   },
   "spriteMaskId":null,
   "visible":true,

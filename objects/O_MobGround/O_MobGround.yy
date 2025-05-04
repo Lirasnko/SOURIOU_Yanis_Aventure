@@ -12,7 +12,7 @@
   "name":"O_MobGround",
   "overriddenProperties":[
     {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_AnimationManager","path":"objects/O_AnimationManager/O_AnimationManager.yy",},"propertyId":{"name":"usePath","path":"objects/O_AnimationManager/O_AnimationManager.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"True",},
-    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_AnimationManager","path":"objects/O_AnimationManager/O_AnimationManager.yy",},"propertyId":{"name":"checker","path":"objects/O_AnimationManager/O_AnimationManager.yy",},"resource":{"name":"O_MobGround","path":"objects/O_MobGround/O_MobGround.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"O_MobGround",},
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_AnimationManager","path":"objects/O_AnimationManager/O_AnimationManager.yy",},"propertyId":{"name":"checker","path":"objects/O_AnimationManager/O_AnimationManager.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"O_MobGround",},
   ],
   "parent":{
     "name":"MobGround",
@@ -51,6 +51,9 @@
     {"$GMObjectProperty":"v1","%Name":"hp","filters":[],"listItems":[],"multiselect":false,"name":"hp","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"3","varType":1,},
     {"$GMObjectProperty":"v1","%Name":"attackDistance","filters":[],"listItems":[],"multiselect":false,"name":"attackDistance","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"1","varType":1,},
     {"$GMObjectProperty":"v1","%Name":"attackTime","filters":[],"listItems":[],"multiselect":false,"name":"attackTime","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"30","varType":1,},
+    {"$GMObjectProperty":"v1","%Name":"haveArmor","filters":[],"listItems":[],"multiselect":false,"name":"haveArmor","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"False","varType":3,},
+    {"$GMObjectProperty":"v1","%Name":"armorHP","filters":[],"listItems":[],"multiselect":false,"name":"armorHP","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"0","varType":1,},
+    {"$GMObjectProperty":"v1","%Name":"armor","filters":[],"listItems":[],"multiselect":false,"name":"armor","rangeEnabled":false,"rangeMax":10.0,"rangeMin":0.0,"resourceType":"GMObjectProperty","resourceVersion":"2.0","value":"","varType":5,},
   ],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",

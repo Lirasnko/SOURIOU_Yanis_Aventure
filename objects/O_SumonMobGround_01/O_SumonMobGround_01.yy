@@ -1,17 +1,21 @@
 {
   "$GMObject":"",
   "%Name":"O_SumonMobGround_01",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"O_SumonMobGround_01",
-  "overriddenProperties":[],
+  "overriddenProperties":[
+    {"$GMOverriddenProperty":"v1","%Name":"","name":"","objectId":{"name":"O_SumonMobGround","path":"objects/O_SumonMobGround/O_SumonMobGround.yy",},"propertyId":{"name":"deadMob","path":"objects/O_SumonMobGround/O_SumonMobGround.yy",},"resource":{"name":"O_DeadMobGround_01","path":"objects/O_DeadMobGround_01/O_DeadMobGround_01.yy",},"resourceType":"GMOverriddenProperty","resourceVersion":"2.0","value":"O_DeadMobGround_01",},
+  ],
   "parent":{
     "name":"Ground",
     "path":"folders/Objects/Entity/SumonMob/Ground.yy",
   },
   "parentObjectId":{
-    "name":"O_ControlableEntityGround",
-    "path":"objects/O_ControlableEntityGround/O_ControlableEntityGround.yy",
+    "name":"O_SumonMobGround",
+    "path":"objects/O_SumonMobGround/O_SumonMobGround.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
@@ -31,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_SumonMob_01",
-    "path":"sprites/S_SumonMob_01/S_SumonMob_01.yy",
+    "name":"S_SumonMobGround01_Idle_Right",
+    "path":"sprites/S_SumonMobGround01_Idle_Right/S_SumonMobGround01_Idle_Right.yy",
   },
   "spriteMaskId":null,
   "visible":true,

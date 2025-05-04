@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_DeadMob_01",
-    "path":"sprites/S_DeadMob_01/S_DeadMob_01.yy",
+    "name":"S_DeadMobGround_01",
+    "path":"sprites/S_DeadMobGround_01/S_DeadMobGround_01.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -35,8 +35,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"S_Mob_01",
-    "path":"sprites/S_Mob_01/S_Mob_01.yy",
+    "name":"S_MobGround01_Idle_Right",
+    "path":"sprites/S_MobGround01_Idle_Right/S_MobGround01_Idle_Right.yy",
   },
   "spriteMaskId":null,
   "visible":true,
