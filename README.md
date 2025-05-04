@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-*Vous incarnez un robot capable de ramer les morts à la vie. Dans ce monde peuplé de machines, la vie est éternelle tant qu'il y a de l'entretien. De plus, les machines ne peuvent pas se reproduire. Le rapport à la mort y est donc très différent et les nécromanciens tels que vous sont rejetés. Vous voyagez seul à la recherche de personne à aider grâce à votre dont lorsque vous vous perdez dans une forêt et perdez aussi votre sac. Une sorte de boutique étrange se présente à vous, et étrangement, les morts de la forêt, on était ramenés à la vie. Votre objectif : trouver un moyen de sortir de cette forêt."
+*Vous incarnez un robot capable de ramer les morts à la vie. Dans ce monde peuplé de machines, la vie est éternelle tant qu'il y a de l'entretien. De plus, les machines ne peuvent pas se reproduire. Le rapport à la mort y est donc très différent et les nécromanciens tels que vous sont rejetés. Vous voyagez seul à la recherche de personne à aider grâce à votre dont lorsque vous vous perdez dans une forêt et perdez aussi votre sac. Une sorte de boutique étrange se présente à vous, et étrangement, les morts de la forêt, on était ramenés à la vie. Votre objectif : trouver un moyen de sortir de cette forêt.*
 
 ## Objectif
 
