@@ -20,6 +20,10 @@
 
 J'ai eu différent problème sur le code surtout consernant mes ia qui sont le coeur de mon jeu, mais par manque de temps du à des raisons famillial (que je peux vous précisez si besoin) j'ai perdu 3 semaines de travail réduisant considérablement mes possibilités. Mon jeu n'est donc pas abouti, il montre surtout ce qui fonctionne déjà avec ou sans bug, ainsi que les possibilités que cela aurait pu apporté. Exemple avec les ennemis volant qui peuvent accéder à des zones que le joueur ne peux pas accéder seul. Cela aurait du être la grande mécanique du jeu, mais très complexe à mettre en place, même si je pense ne pas en être loin.
 
-## Univers
+## Document
 
-Vous trouverez dans gamemaker, dans l'explorateur de fichier, dans le dossier "Sprite" un dossier "Concept", il contient mon Moodboard ainsi que des concept de créature que j'avais imaginer.
+Vous trouverez dans gamemaker, dans l'explorateur de fichier, dans le dossier "Sprite" un dossier "Concept", il contient mon Moodboard ainsi que des concepts de créature que j'avais imaginer. Il y a aussi le diagramme de classe demander.
+
+## Excuse
+
+Je tiens à m'excueser pour le travail non représentatif de ce que j'aurais pu produire, le niveau n'est pas terminé, il manque des fonctionnalité, des animations et du gameplay.
